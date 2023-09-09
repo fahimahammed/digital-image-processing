@@ -3,6 +3,10 @@ import cv2
 
 def rgbToGray(imagePath, outputFolder):
     image = cv2.imread(imagePath, cv2.IMREAD_COLOR)
+    if image is None:
+        print(f"Unable to read the image: {imagePath}")
+        return
+        
     grayImage = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     # print(f"image: {image} and {grayImage}")
     filename, ext = os.path.splitext(os.path.basename(imagePath))
