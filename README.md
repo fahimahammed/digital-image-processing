@@ -1,7 +1,7 @@
 # Digital Image Processing Lab
 
-- **Computer Science & Engineering, University of Rajshahi**
-- **Code:** `CSE4181`
+- **Code:** `CSE4182`
+- **Course Title:** Digital Image Processing Lab
 
 ### Lab Tasks
 - **Task 1: Take the grayscale image of size 512x512 & perform the following operations -**
