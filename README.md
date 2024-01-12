@@ -1,12 +1,18 @@
 # Digital Image Processing Lab
 
-- **Code:** `CSE4182`
-- **Course Title:** Digital Image Processing Lab
+### Course Information
+
+| **Course Code** | **Course Title**             |
+| --------------- | ---------------------------- |
+| CSE4182         | Digital Image Processing Lab |
+
+## Overview
+This repository contains the lab tasks for the Digital Image Processing course (CSE4182). The tasks are designed to provide hands-on experience in various image processing techniques using Python and relevant libraries.
 
 ### Lab Tasks
 - **Task 1: Take the grayscale image of size 512x512 & perform the following operations -**
 	- (a) Decrease its spatial resolution by half every time & observe its change when displaying in the same window size
-	- (b) Decrease its intensity level resolution by one bit up to reach its binary format & observe its change when displaying in the same window size ✓**
+	- (b) Decrease its intensity level resolution by one bit up to reach its binary format & observe its change when displaying in the same window size
 	- (c) Illustrate the histogram of the image & make single threshold segmentation observed from the histogram
 - **Task 2: Take a grayscale image of size 512x512 & perform the following operations –**
 	- (a) Perform the brightness enhancement of a specific range of gray levels & observe its result
