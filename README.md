@@ -1,6 +1,6 @@
 # Digital Image Processing Lab
 
-### Course Information
+### Course Information:
 
 | **Course Code** | **Course Title**             |
 | --------------- | ---------------------------- |
@@ -29,4 +29,6 @@ This repository contains the lab tasks for the Digital Image Processing course (
  - **Task 5: Take a binary image & perform the following morphological operations –**
 	- (a) Perform Erosion & Dilation operations
 	- (b) Opening & Closing operations 
-	- (c) Boundary extraction using morphological operation 
+	- (c) Boundary extraction using morphological operation
+
+ #
