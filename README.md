@@ -31,4 +31,4 @@ This repository contains the lab tasks for the Digital Image Processing course (
 	- (b) Opening & Closing operations 
 	- (c) Boundary extraction using morphological operation
 
- #
+
